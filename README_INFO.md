@@ -29,13 +29,18 @@ Aspiring **DevOps Engineer** passionate about automation, cloud technologies, an
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" />
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" />
-  <img src="https://img.icons8.com/fluency/48/ansible.png" alt="Ansible" />
+  <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="GitLab CI" />
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
   <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" />
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-jenkins-is-an-open-source-automation-server-logo-color-tal-revivo.png" alt="Jenkins" />
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS EC2" />
   <img src="https://img.icons8.com/color/48/000000/bash.png" alt="Bash" />
   <img src="https://img.icons8.com/fluency/48/terraform.png" alt="Terraform" />
-  <img src="https://img.icons8.com/fluency/48/monitoring.png" alt="Monitoring" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square" alt="GitHub Actions" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" alt="Prometheus" height="48" />
+
+ 
+
 </p>
 
 ---
