@@ -1,10 +1,58 @@
-- 👋 Hi, I’m Suraj Vishwakarma
-- 👀 I’m interested in DevOps Enngineer
-- 🌱 I’m currently learning Terraform,Kubernetes,Jenkins,Ansible,ARM
-- 💞️ I’m looking to collaborate on Devops Practices
-- 📫 Reach out to via surajvish101@gmail.com 
+# Hey there! <img src="https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif" width="30" height="30"> <img src="https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width="30" height="30">
 
-<!---
-surajvish1/surajvish1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00ADB5&size=25&lines=Hi!+I'm+Prakash;Aspiring+DevOps+Engineer;Cloud+%7C+CI%2FCD+%7C+Linux+%7C+Docker+%7C+K8s)](https://git.io/typing-svg)
+
+Aspiring **DevOps Engineer** passionate about automation, cloud technologies, and infrastructure as code. Strong fundamentals in Linux, scripting, version control, and CI/CD. Always curious to explore tools that improve system reliability and developer productivity. I love learning, collaborating on real-world projects, and continuously improving my skills.
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=singhprakash14&label=Profile%20views&color=0e75b6&style=flat" alt="singhprakash14" />
+</p>
+
+<img align="right" alt="DevOps" width="310px" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+---
+
+- 🌱 Currently learning: **AWS, Terraform, Jenkins, and Kubernetes**
+- 🔧 Open to collaborating on: **Cloud Projects, Automation, and Open Source DevOps Tools**
+- 💬 Ask me about: **Linux, Bash, Docker, Git, GitHub Actions, and CI/CD concepts**
+- 📫 Reach me at: **prakashsingh12320@gmail.com**
+- 🧩 LeetCode: [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue?logo=leetcode)](https://leetcode.com/prakashsingh20497/)
+
+---
+
+## ⚙️ Tools & Technologies
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" />
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" />
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" />
+  <img src="https://img.icons8.com/fluency/48/ansible.png" alt="Ansible" />
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
+  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" />
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-jenkins-is-an-open-source-automation-server-logo-color-tal-revivo.png" alt="Jenkins" />
+  <img src="https://img.icons8.com/color/48/000000/bash.png" alt="Bash" />
+  <img src="https://img.icons8.com/fluency/48/terraform.png" alt="Terraform" />
+  <img src="https://img.icons8.com/fluency/48/monitoring.png" alt="Monitoring" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=singhprakash14&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhprakash14&layout=compact&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=singhprakash14&theme=darkhub&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=singhprakash14&theme=dark)](https://git.io/streak-stats)
+
+---
